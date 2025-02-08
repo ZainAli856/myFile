@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="style2.xsl" ?>
+
+<bookstore>
+
+<book category="cooking">
+    <title lang="en">Zain Ali</title>
+    <author>M.Ali</author>
+    <year>2003</year>
+    <price>30.00</price>
+</book>
+
+<book category="children">
+    <title lang="en">Ahmed Raza</title>
+    <author>Ali Raza</author>
+    <year>2003</year>
+    <price>29.00</price>
+</book>
+
+<book category="web">
+    <title lang="en">Ali khan</title>
+    <author>Sufiyan Khan</author>
+    <author>HAsham Shiekh</author>
+    <author>Subhan sheikh</author>
+    <author>Arsalan Butt</author>
+    <author>Owais butt</author>
+    <year>2007</year>
+    <price>49.00</price>
+</book>
+
+<book category="web">
+    <title lang="en">Hasnain ALi</title>
+    <author>Muhammad Ali</author>
+    <year>1999</year>
+    <price>39.00</price>
+</book>
+
+</bookstore>

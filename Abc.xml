@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+
+<persondata>
+
+<user id="01">
+<fname>Zain</fname>
+<lname>Ali</lname>
+<age>21</age>
+<phone>+923040399599</phone>
+</user>
+
+<user id="02">
+<fname>Sufiyan</fname>
+<lname>Khan</lname>
+<age>21</age>
+<phone>+923212313797</phone>
+</user>
+
+<user id="03">
+<fname>Hasham</fname>
+<lname>Khan</lname>
+<age>20</age>
+<phone>+923003348966</phone>
+</user>
+
+<user id="04">
+<fname>Ahmed</fname>
+<lname>Saleem</lname>
+<age>23</age>
+<phone>+923846384464</phone>
+</user>
+
+</persondata>
